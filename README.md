@@ -2,8 +2,8 @@
 
 **Integrating the Rekmob SDK** (English)
 
-- [Android Banner Integration](https://github.com/rekmob/android-sdk/wiki/Android-Banner-Integration)
-- [Android Interstitial Integration](https://github.com/rekmob/android-sdk/wiki/Android-Interstitial-Integration)
+- [Android Banner Integration](https://github.com/rekmob/android-sdk/wiki/Android-Banner-Ad-Integration)
+- [Android Interstitial Integration](https://github.com/rekmob/android-sdk/wiki/Android-Interstitial-Ad-Integration)
 
 **Rekmob SDK Entegrasyonu** (Türkçe)
 
