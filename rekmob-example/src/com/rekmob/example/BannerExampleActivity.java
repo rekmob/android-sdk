@@ -8,7 +8,7 @@ import android.view.Menu;
 
 public class BannerExampleActivity extends Activity {
 
-	static final String REKMOB_AD_UNIT_ID = "ad unit key";
+	static final String REKMOB_AD_UNIT_ID = "e7fda455c07742f68b572904e2b80e0b";
 
 	RekmobView rekmobView;
 
